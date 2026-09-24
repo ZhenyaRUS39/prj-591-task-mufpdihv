@@ -1,0 +1,1 @@
+Декомпозировал задачу "Создать простой сайт hello world" на 2 subtask: разработка (developer) + автоматический smoke-test (tester). Профиль: 20razrab1.
